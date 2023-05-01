@@ -1,2 +1,2 @@
-# Python-Function
+# Python-Functions
 Python Function
