@@ -1,2 +1,1 @@
-# Python-Functions
-Python Function
+# Local Python Setup
